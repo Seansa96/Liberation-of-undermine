@@ -51,6 +51,7 @@ When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. *
 
 # Sprocketmonger Lockenstock - Boss 5 (BOSS SEEMS VERY UNFINISHED, LIKELY TO CHANGE)
 * Main mechanic is **Goblin Weaponry**. There are four different types of weapons (somewhat like Siegecrafter) you can get.  NOT KNOWN IF YOU HAVE ANY CHOICE OVER WHAT WEAPONS, OR IF IT IS RANDOM. SEEMS JUST RANDOM BASED ON OTHER MECHANICS. DON'T KNOW IF YOU HAVE TO KILL THEM EITHER, OR IF THEY'RE JUST ENTITIES THAT DO THEIR MECHANICS THEN LEAVE. ALSO UNKNOWN IF IT SPAWNS MULTIPLE OF THESE WEAPONS OR NOT.
+
 Weapon Types:
 * **Rocket Cannon** - Spawns swirlies to dodge every second for 4 seconds
 * **Fire Turret** - Fires a laser beam that deals lethal damage to anything hit. Unknown if it's a random location and stationary or if it tracks a player, or if it just moves.
@@ -82,7 +83,9 @@ Token Types
 * Flame
 * Coin
 * Bomb
+
 Combos (Shock combos are significantly more complicated than others)
+
 * Shock and Coin - Creates a **Premium Currency Coil**, which pulls in everyone towards it, doing AoE damage over the duration. Activating this Coil does 18M dmg and absorbs the nearest 2 **Shocking Fields**.
 * Shock and Flame - Creates a **Superheated Coil**, sending out **Traveling Flames** upon activation and creation. Rashok waves that knock you back. Activating this Coil does 18M dmg and absorbs the nearest 2 **Shocking Fields**.
 * Shock and Bomb - Creates a **Dynamite-Laden Coil**, which spawns **Dynamite Booty** upon activation or creation. Dynamite Booty chases players for 12 seconds. If they reach the target, it deals high raid damage and puts a dot on the raid. They don't get faster over time and are relatively low HP and can be cc'ed.
