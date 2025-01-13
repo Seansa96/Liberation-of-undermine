@@ -12,12 +12,14 @@
 
 * Tank bosses apart, split raid. They take 99% less damage if in 40 yds. **Bosses should die around same time**. Deals increasing damage if they don't. Swap groups or Swap tanks at 10-15(?) stacks.
 * Everytime they hit full energy (unknown interval), they'll **clash**, doing big damage and spawning swirlies and waves. Also ticking damage during the **Clash,** lasts 20 seconds. Dodge and do dam. Each **clash** deals more and more damage.
+
 **Dino (Flarendo the Furious)**
 * Fire damage
 * Debuff is called **Blistering Spite**
 * **Scrapbomb** - Soak that needs around 3-5 people in a 10 man. 10 seconds to soak it. Everyone who soaks gets a dot that splashes for 30 seconds, then leaves a pool when it expires. Likely need one half of the Dino group to soak it then the other half. First group should place pools far as they can. Pools also shoot out waves periodically.
 * **Blastburn Roarcannon** - Will pick a target and lock on them. After 3 seconds, will beam the target spot, probably killing anyone caught.
 * Tank mechanic is a knockup that deals high damage.
+
 **Monkey (Torq the Tempest)**
 * Nature Damage
 * Debuff is **Galvanized Spite**
