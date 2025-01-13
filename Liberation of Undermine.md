@@ -174,6 +174,8 @@ All abilities. There's a lot...GLHF. LUST. LUST. LUST THIS PHASE ITS ASS. Hard e
 
 * **Bloodlust -** Boss will lust and get 30% haste for 40 seconds.
 
+# Gallywix - Final Boss
 
+As of right now this boss is both extremely complex and the dungeon journal just doesn't seem finished. Waiting until it's worth my time to actually write up notes.
 
 
