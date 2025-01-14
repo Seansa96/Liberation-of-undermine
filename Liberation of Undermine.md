@@ -1,13 +1,17 @@
 # Vexie and the Geargrinders - Boss 1
 
-* Boss immune at start
-* Bikers will charge. Need to have them charge over Oil Spills to be killed
-* Once they're killed, hop on bike and throw it at the boss
+* Boss immune at start. Has plating that needs to be removed. Biker adds are only ways to remove it.
+* Bikers will charge players. Need to have them charge over Oil Spills to be killed
+* Once they're killed, hop on bike and throw it at the boss. Probably removes 1 stack of plating.
 * Clear excess oil spills with fire
 * Save CDs and lust for when all plating is gone, burn boss
 * Repeat
 * Dodge
 * Tanks swap on each Tank Buster
+
+## Strat?
+
+* Look up lol
 # Cauldron of Carnage - Boss 2
 
 * Tank bosses apart, split raid. They take 99% less damage if in 40 yds. **Bosses should die around same time**. Deals increasing damage if they don't. Swap groups or Swap tanks at 10-15(?) stacks.
@@ -23,11 +27,17 @@
 **Monkey (Torq the Tempest)**
 * Nature Damage
 * Debuff is **Galvanized Spite**
-* Main mechanic on this side is called **Static Charge**. Not known if it's a boss bar or actual debuff. Small dot, and has a maximum amount of charge it can reach. Charge increases when moving and depletes when stationary.  If you reach max charge, you stun yourself and everyone 10 yds around for 6 seconds.
+* Main mechanic on this side is called **Static Charge**. Not known if it's a boss bar or actual debuff. Small dot, and has a maximum amount of charge it can reach. Charge increases when moving and depletes when stationary.  If you reach max charge, you stun yourself and everyone 10 yds around for 6 seconds. Similar to first boss in EP.
 * Swirlies to dodge, keep movement to a minimum.
 * **Voltaic Images** - Boss will spawn clones that fixate on players and try to reach them. When they do, they deal moderate damage and leave a silencing pool underneath that deals low damage. Not known if cc'able or if you move out and let them hit you.
 * Tank mechanic is a weak physical hit, unmitigated damage converted to nature damage.
 
+## Strat
+
+* Split raid in half. Can have tanks just swap bosses for less movement.  
+* Monkey side is pretty chill. Everyone should spread out and help kill/cc clones. If you are going to get hit by one, just try to get hit in Africa so pools don't spawn bad.
+* Keep movement to a minimum. Don't overmove/strafe like a dumbass.
+* On Dino side, have half of Dino group soak first soak and then the other half soak the second half. First group needs to drop their pools FAR, and second group should try to align theirs so the waves are predictable (think Rashok).  I'd anticipate either a soak happening during a Blastburn Roarcannon, or having to drop pools during a Blastburn. Bait first in either case, then do the mechanic. Depending on how early they clash and your class, could be worth holding lust/CDs to hit both. Just make sure both die at same time though. Lust on pull is fine.
 # Rik Reverb - Boss 3
 * Main mechanic are **Amplifiers** placed around the room. These gain power over time. If any reach max power, likely a wipe.
 * **Amps** drop in periodically. If you're hit by them dropping in, you take high damage and are stunned and knocked.
@@ -42,6 +52,13 @@
 * Tank mechanic is a stacking Sonic DMG taken debuff. 100% a stack.  Cleaves to anyone in front of boss as well.
 When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. **The Third Hype Hustle has no end and is the soft enrage.**
 * All amps will **Blowout!** causing them to explode, dealing very light damage and knocking up any players within 10 yards into the air. This is the only way to dodge **Blaring Drop!,** which is a ring that grows outward (Artificer/Queen), dealing lethal damage to anyone caught by it.
+
+## Strat
+* As a group, it needs to be clearly defined and agreed upon what Amps are getting clicked on/what order. While it is ultimately up to each player to make sure they get over the Echoes, a good plan on which way to move/etc is necessary for group success.
+* Tanks need to be aware of positioning as well, as the boss does a frontal and powers up any Amps nearby (15 yards).
+* It is very likely you will get overlaps of the following: Faulty Zap during an Echoing Chant, or Sound Cannon during an Echoing Chant. In either case, the targeted players should get away from everyone else to make their movements easier. Immunities/big movement is very helpful at this time.
+* Same thing with the bombs. Range should be the ones hitting these for the most part, as they might be hard to reach sometimes and are high priority, but you do get a damage buff for hitting these, so melee shouldn't be afraid to help with them.
+* For the **Hype Hustle**, just pick an Amp to pop yourself up with. Doesn't seem to be a limit on how many can use one pop, at least on Heroic.
 # Stix Bunkjunker - Boss 4
 * Main mechanic is Rolling Rubbish. Random players will be turned into a big ball. Boss spawns garbage piles throughout the fight. You have a bar that keeps track of garbage you've ran over. Can run over small garbage/hyenas at first, then bigger garbage/scrapmasters.
 * Boss summons an increasing amount of Doomsplosives. These need to be ran over by a large enough Rolling Rubbish, or they wipe you. Need a full bar basically to run them over.
@@ -51,6 +68,12 @@ When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. *
 * When the boss summons garbage piles, he also does moderate raid damage over time and spawns swirlies to dodge. 
 * Occasionally he'll go into Overdrive, going immune to damage and flying in the air, spawning a ton of swirlies then crashing down into a location. Anything in that location after 5 seconds gets one shot, pretty much.
 
+## Strat
+
+* Whole raid should be in the same general area but also loosely spread. Reason is that you want the Scrapmasters not to jump all over the place to be easily cleaved and for adds to be picked up easier/rolled over easier.
+* For balls, probably a Weakaura will handle it, but you really only want the bare minimum people getting trash to soak the big bombs. All other balls should just pick up as many adds as they can and run into boss for boss dmg.
+* Territorial Bombshells are the HIGHEST PRIORITY THING ON THE MAP. ALL DAMAGE SHOULD BE FOCUSED ON THEM WHENEVER THEY ARE UP. Take extreme care not to accidentally roll into these. Tanks should drag boss over to them for cleave and Dks should grip them in once they're sub 75%.
+* Tank ball should just generally be used to pick up adds and roll into boss as soon as possible, then go back to picking up adds.
 # Sprocketmonger Lockenstock - Boss 5 (BOSS SEEMS VERY UNFINISHED, LIKELY TO CHANGE)
 * Main mechanic is **Goblin Weaponry**. There are four different types of weapons (somewhat like Siegecrafter) you can get.  NOT KNOWN IF YOU HAVE ANY CHOICE OVER WHAT WEAPONS, OR IF IT IS RANDOM. SEEMS JUST RANDOM BASED ON OTHER MECHANICS. DON'T KNOW IF YOU HAVE TO KILL THEM EITHER, OR IF THEY'RE JUST ENTITIES THAT DO THEIR MECHANICS THEN LEAVE. ALSO UNKNOWN IF IT SPAWNS MULTIPLE OF THESE WEAPONS OR NOT.
 
@@ -74,6 +97,9 @@ OTHER MECHANICS
 * **Pyro Party Pack** - Tank debuff that you take out, does falloff damage. Swap every time on this probably.
 * **Goblin Gravi-Gun** - 20% dmg taken and 5% MS reduction a stack.  Might line up well with above mechanic, or otherwise probably swap on 5-10 stacks.
 
+# Strat
+
+*Boss is pretty WIP, none yet*
 # The One-Armed Bandit - Boss 6
 
 Main mechanic is **Spin-to-Win**. Spawns a bunch of **Reel Assistants** that carry tokens. Several different type of tokens. You deposit the tokens into the boss and then get a mechanic based on the combination.  **CANNOT REPEAT COMBINATIONS, AND CANNOT...NOT DO THE MECHANIC. DOING SO IS A WIPE**.
@@ -119,6 +145,15 @@ Keeps everything from P1 except Reel Assistants. Like I said, there's 4 specific
 
 **Fourth Combo - Explosive Payout (Wipe)**
 * Kills everyone...it's a wipe.
+
+## Strat
+
+* By the journal, it seems as if you only deal with each mechanic as it comes. As in, they don't keep building up and up, progressively making the phase harder. With that in mind, it really doesn't matter what order you choose to do, so long as everyone *knows* what the order is so that you don't accidentally repeat.  Of course, you can designate two players only to do the depositing, so you have full control over that.
+* When **Spin-to-Win** goes out, Reel Assistants need to be kicked and grouped up for cleave. At that point, the designated players should take the tokens to the boss. Everyone should spread out while these are up and move out of the group when they are getting dispelled. Watch waves while this is happening.
+* Tanks should swap on each Big Hit, and plan a good route for the Shocking Fields. Make sure to use the coils to suck these up at a later point.
+* Players should dodge the Pay-Lines then stand in the field it leaves behind for a damage increase. Tanks should try to keep the boss close to these so melee can have higher uptime on the buff.  Ranged should knock back the coins at the boss once they fall over.
+* Whenever Dynamite Booty of any type is up, they are highest priority and need to be hard focused/cc'ed (if possible).  For the Flame and Bomb combo, melee should swap off when they get low, as they blow up anything in 15 yards.
+
 
 # Mug'zee - Boss 7
 
@@ -174,6 +209,9 @@ All abilities. There's a lot...GLHF. LUST. LUST. LUST THIS PHASE ITS ASS. Hard e
 
 * **Bloodlust -** Boss will lust and get 30% haste for 40 seconds.
 
+## Strat
+
+* None for now, boss makes my brain hurt. Will need to see it to really.*
 # Gallywix - Final Boss
 
 As of right now this boss is both extremely complex and the dungeon journal just doesn't seem finished. Waiting until it's worth my time to actually write up notes.
