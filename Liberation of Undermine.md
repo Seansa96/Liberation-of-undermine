@@ -75,19 +75,26 @@ When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. *
 * Territorial Bombshells are the HIGHEST PRIORITY THING ON THE MAP. ALL DAMAGE SHOULD BE FOCUSED ON THEM WHENEVER THEY ARE UP. Take extreme care not to accidentally roll into these. Tanks should drag boss over to them for cleave and Dks should grip them in once they're sub 75%.
 * Tank ball should just generally be used to pick up adds and roll into boss as soon as possible, then go back to picking up adds.
 # Sprocketmonger Lockenstock - Boss 5 (BOSS SEEMS VERY UNFINISHED, LIKELY TO CHANGE)
-* Main mechanic is **Goblin Weaponry**. There are four different types of weapons (somewhat like Siegecrafter) you can get.  NOT KNOWN IF YOU HAVE ANY CHOICE OVER WHAT WEAPONS, OR IF IT IS RANDOM. SEEMS JUST RANDOM BASED ON OTHER MECHANICS. DON'T KNOW IF YOU HAVE TO KILL THEM EITHER, OR IF THEY'RE JUST ENTITIES THAT DO THEIR MECHANICS THEN LEAVE. ALSO UNKNOWN IF IT SPAWNS MULTIPLE OF THESE WEAPONS OR NOT.
+* Main mechanic is **Activate Inventions** There are three different types of weapons (somewhat like Siegecrafter) you can get.  NOT KNOWN IF YOU HAVE ANY CHOICE OVER WHAT WEAPONS, OR IF IT IS RANDOM. SEEMS JUST RANDOM BASED ON OTHER MECHANICS. DON'T KNOW IF YOU HAVE TO KILL THEM EITHER, OR IF THEY'RE JUST ENTITIES THAT DO THEIR MECHANICS THEN LEAVE. ALSO UNKNOWN IF IT SPAWNS MULTIPLE OF THESE WEAPONS OR NOT.
 
 Weapon Types:
-* **Rocket Cannon** - Spawns swirlies to dodge every second for 4 seconds
-* **Fire Turret** - Fires a laser beam that deals lethal damage to anything hit. Unknown if it's a random location and stationary or if it tracks a player, or if it just moves.
-* **Mega Magnet** - Pulls its target towards it. Anything that touches it gets stunned. Doesn't say if they take damage, but I imagine it's probably near lethal if you touch it as well.
-* **Firecracker Trap** - Spawns traps that root anything that runs over them, dealing pretty low damage (probably gonna change).
-* Other main mechanic (Heroic and up) is **Product Deployment**. These spawns mines all over that explode on contact with players or **Goblin Weaponry**. Triggering a mine does raid damage, but also puts out a debuff increases damage taken from **Unstable Explosion** (the spell that actually does the raid damage) for 2 seconds. Obviously, you want these staggered. The player that triggers each mine gets a debuff preventing them from triggering another (well, a 1000% dmg taken increase from triggering) for ? seconds.
-At 100 energy, he'll do **Beta Launch**, empowering a weapon type and knocking people away.  He'll do AoE dmg and a heal absorb on everyone.  He'll also do a swirlie rain. Getting hit disorients you...cringe.
+* **Rocket Barrage** - Spawns swirlies to dodge every 2 seconds for 4 seconds
+* **Blazing Beam** - Fires a laser beam that deals lethal damage to anything hit. Unknown if it's a random location and stationary or if it tracks a player, or if it just moves.
+* **Mega Magnet** - Pulls its target towards it. Anything that touches it gets stunned. Doesn't say if they take damage. Currently doesn't do damage. We'll see from testing.
 
-Empowered Weapons
-* **Void Laser** - Same thing basically as other laser.
-* **Void Cannon** - Same thing as Rocket Cannon, except it also deals damage to everyone when the projectiles land.
+ Other main mechanic (Heroic and up) is **Foot Blasters**. These spawns mines all over that explode on contact with players, Inventions, or **any floor currently charged by Wire Transfer**. Triggering a mine does raid damage, but also puts out a debuff increases damage taken from **Unstable Explosion** (the spell that actually does the raid damage) for 2 seconds. Obviously, you want these staggered. The player that triggers each mine gets a debuff preventing them from triggering another (well, a 1000% dmg taken increase from triggering) for 2 mins.
+
+You'll want to prioritize the **Foot Blasters** that are closest to **Wire Transfer tiles**, or could be where Inventions spawn.
+
+**P2**
+
+At 100 energy, he'll do **Beta Launch**, empowering a weapon type and knocking people away.  He'll do AoE dmg and a heal absorb on everyone.  He'll also do a swirlie rain. Getting hit disorients you...cringe. Every time he does this he also gets 15% dmg for the rest of the encounter.  Not known if that weapon type is empowered for the rest of the fight or just during this stage.
+
+**Empowered Weapons**
+* **Jumbo Void Beam** - Same thing basically as other laser.
+* **Void Barrage** - Same thing as Rocket Cannon, except it also leaves something called a **Voidsplash** behind. Touching this does a small amount of dmg to everyone.
+* ***Doesn't seem to have an empowered version of the magnet***
+
 
 OTHER MECHANICS
 
@@ -99,12 +106,15 @@ OTHER MECHANICS
 
 # Strat
 
-*Boss is pretty WIP, none yet*
+* Seems to be a bit like Siegecrafter, where you have to play the combos of weapon types. They're really just all "dodge" or "use eyes", though.
+* The real challenge however is keeping the **Foot Blasters** under control. You want to make sure everyone is aware of how best to deal with these, and to not trigger them too quickly.  Prioritize the ones that spawn close to where Inventions might land, or where the **Wire Transfer** is happening next.
+* You also want to make sure the raid has a clear path to dodge out of things. Highly likely with all the dodging going on people will feel "trapped" at points, so give yourself a clear path as well.
+* For tanks, you'll probably want to swap Grav Gun debuff on 5-10 stacks, wherever you start to feel threatened, and swap on every Pyro Party Pack as well. Make sure to run it out as far as you can, ala Smolderon, but be careful of other players on your way out. Same thing as above, where having a clear path to run out ahead of time is important. The timing on this will very likely line up with other events, like a Screw Up and Inventions going off, so be aware of that. You'll also be slowed on your way out, so ask for movement speed or save up movement as necessary.
 # The One-Armed Bandit - Boss 6
 
 Main mechanic is **Spin-to-Win**. Spawns a bunch of **Reel Assistants** that carry tokens. Several different type of tokens. You deposit the tokens into the boss and then get a mechanic based on the combination.  **CANNOT REPEAT COMBINATIONS, AND CANNOT...NOT DO THE MECHANIC. DOING SO IS A WIPE**.
 
- **Reel Assistants** have 3 mechs. High priority kick called **Overload**, does aoe dmg and knocks everyone back. **Withering Flames**, which is a debuff that does high dmg and reduces Max HP. Spawns Rashok waves upon expiration or dispel. SPREAD. Does high nature dmg to its target that chains to other people.
+ **Reel Assistants** have 3 mechs. High priority kick called **Overload**, does aoe dmg and knocks everyone back. **Withering Flames**, which is a debuff that does high dmg and reduces Max HP. Spawns **Rashok waves** upon expiration or dispel. SPREAD. Does high nature dmg to its target that chains to other people.
 
 Token Types
 * Shock
@@ -118,7 +128,7 @@ Combos (Shock combos are significantly more complicated than others)
 * Shock and Flame - Creates a **Superheated Coil**, sending out **Traveling Flames** upon activation and creation. Rashok waves that knock you back. Activating this Coil does 18M dmg and absorbs the nearest 2 **Shocking Fields**.
 * Shock and Bomb - Creates a **Dynamite-Laden Coil**, which spawns **Dynamite Booty** upon activation or creation. Dynamite Booty chases players for 12 seconds. If they reach the target, it deals high raid damage and puts a dot on the raid. They don't get faster over time and are relatively low HP and can be cc'ed.
 * Flame and Coin - High Fire AoE dmg to the whole raid for its duration
-* Flame and Bomb - Spawns **Dynamite Booty** with 100% increased HP and 50% reduced MS. Also explodes on death, dealing high damage to anything within 15 yards.
+* Flame and Bomb - Spawns **Dynamite Booty** with 100% increased HP and 50% reduced MS. Also explodes on death, dealing high damage to anything within 15 yards. This explosion also releases **Rashok waves**.
 * Coin and Bomb - Spawns **Premium Dynamite Booty**, which has 100% increased HP and 50% dmg and is cc immune.
 
 After all of these are exhausted, he'll enter Stage Two, "cheating" and doing a specific order of combos. Final combo is hard enrage, as he'll just blow everyone up (Bomb/Bomb/Bomb).
@@ -168,12 +178,12 @@ He also has an energy bar, and will wipe the raid if it hits full. Nothing in th
 
 **Mug Abilities** 
 
-Big thing here is the **Gallgio Goons**. These are spawned by the boss and seem to be able to tanked normally.
+Big thing here is the **Gallagio Goons**. These are spawned by the boss and seem to be able to tanked normally.
 
-* Mug will command the **Goons** to lock down several players in a **Gaol**. Seems to be a circle soak kinda thing, as it splits damage which other players. Needs probably 3 people minimum. If you overlap this with any others, you're dead (enrages it making it do 500% more dmg). You also can't have everyone leave the Gaol it leaves behind, or it will enrage it as well.
+* Mug will command the **Goons** to lock down several players in a **Gaol**. Seems to be a circle soak kinda thing, as it splits damage which other players. Needs probably 3 people minimum. If you overlap this with any others, you're dead (enrages it making it do 500% more dmg). By the journal it also seems as if they're stationary once they're "locked on", and if anyone *doesn't* soak it, you also wipe. Don't overlap these and place them in good spots so players with Spears can use them to block.
 * The **Goon** will also do a frontal, doing 2.5M dmg to anything hit.
 * The **Goon** will cast **Pay Respects**, an interruptible cast that gives a high health absorb to the boss. Insta kick it. Probably a kick order thing.
-* When the **Goon** dies, does dmg to everything still in the **Gaol** and leaves behind a damage field where the **Gaol** was for 2 minutes. You'll probably need to actually coordinate where each Goon and Gaol spawn at so the room isn't filled up. If you drag the **Goon** through the **Gaol** it insta kills it.
+* When the **Goon** dies, does dmg to everything still in the **Gaol** and leaves behind a damage field where the **Gaol** was for 2 minutes. You'll probably need to actually coordinate where each Goon and Gaol spawn at so the room isn't filled up. If you collide with the **Gaol** wall it insta breaks it.
 
 Other mechanics for **Mug**.
 
@@ -181,7 +191,7 @@ Other mechanics for **Mug**.
 * **Frostshatter Spear** - Does 18M dmg to the first ***thing*** hit (out of players, Earthen Walls, or Crawler Mines).
 * **Stormfury Finger Gun -** Frontal cone that does 1.2M nature dmg every 0.5s for 4s. Seems to leave behind a **Stormfury Cloud** that does 1.2M nature dmg and stuns anything hit by lightning strikes under the cloud for 2s. Probably need to aim this in good spots as well.
 * **Molten Gold Knuckles -** Frontal tank cone that also knocks back ANYONE hit. This ability is a little complicated, so I'll break it down a bit here.
-Anyone hit by it gets a debuff called **Golden Drip**. This debuff lasts 10 seconds. While they have this debuff, they drop pools that last for 3 minutes. EACH POOL THEY CREATE REMOVES A STACK OF THE DEBUFF. IF YOU DO NOT GET RID OF EVERY STACK, YOU GET STUNNED FOR 30 SECONDS. It is not know exactly how you get rid of stacks. It might be an ExtraActionButton, as it seems like you have a way to force removal, or perhaps you get a vehicle bar. Either way, tank mechanic KEK.
+Anyone hit by it gets a debuff called **Golden Drip**. This debuff lasts 10 seconds. While they have this debuff, they drop pools that last for 3 minutes. EACH POOL THEY CREATE REMOVES A STACK OF THE DEBUFF. IF YOU DO NOT GET RID OF EVERY STACK, YOU GET STUNNED FOR 30 SECONDS. It is not known exactly how you get rid of stacks. It might be an ExtraActionButton, as it seems like you have a way to force removal, or perhaps you get a vehicle bar. Either way, tank mechanic KEK.
 
 **Zee Abilities**
 
@@ -207,11 +217,46 @@ At 40% HP the boss will do a big dodge situation as well as charge people and do
 
 All abilities. There's a lot...GLHF. LUST. LUST. LUST THIS PHASE ITS ASS. Hard enrages when he gets full energy so yeah. Also still has **Moxie**, so he'll do more and more damage.
 
-* **Bloodlust -** Boss will lust and get 30% haste for 40 seconds.
+* **Bloodlust -** Boss will lust and get 30% haste for the entire phase.
 
 ## Strat
 
-* None for now, boss makes my brain hurt. Will need to see it to really.*
+This fight is pretty complex. I've broken it down into each side, intermission, and P3.
+
+**On Mug side**
+
+ * Determine where the Gaols will be dropped ahead of time and keep the floor relatively organized. Tanks should know: where to drop their pools, and where to point the Storm Clouds
+ * Evenly distribute players in the soaks. The tank currently holding the boss should make sure he is NOT in any Gaol soak, or the boss will enrage. You want to leave a gap between the Gaols so that people can actually get behind the walls. Remember, you touch the walls and the Gaol collapses, and you'll have no way to block the Spears, which can one shot even tanks unless they pop everything.
+ * Tanks will swap on each Molten Gold Knuckles, as they'll need to drop pools after. I believe at this time, they just need to keep moving to drop pools.
+ * Goes without saying, but don't stand in the Gaols after they're made, you take moderate damage if you do.
+ * When the Spears go out, make sure each player has their own wall to use to block it. Probably can't have everyone use the same one as of current thinking, but testing will reveal...the TRUTH!!!!
+
+**On Zee Side**
+
+* This side is much less complicated to play. It's really about just keeping the mines under control.
+* You also want to stagger mine explosions, as you need players to soak the swirlies after the mine detonates.  If you have groups organized enough, you can detonate as many as you're prepared for, though.  Failing to soak the swirlies is 3.7M dmg each, so REALLY want to make sure these get soaked.
+* The Volunteer Rocketeers are **ABSOLUTE HIGHEST PRIORITY** while they are up.  Their Disintegration Beam will just one-shot their targeted player after ~7 seconds.  Not known if cc'able or interruptable, but assume they are not for now.
+* The Goblin-Guided Rocket needs rotating groups set up ahead of time, and should be soaked in pre-determined spots as it leaves a **Hot Mess** behind. You can't soak for a minute after soaking.
+* Dodge Spray and Pray
+* The Mk II Electro Shockers still seem pretty piss. Just cleave them down and swap to them when they drop below 80% (they take 100% increased dmg for 8 seconds).
+* The tank mechanic in this phase affects the ***closest*** player in the beam (Double Whammy Shot). Make sure you are in fact the closest, and EVERYONE ELSE should also gtfo of the beam anyways. The original target of the beam will get an Explosive Payload that they should take out and MAKE SURE IT DOES NOT HIT ANY MINES. It will detonate them if they do, and as the circle is 15 yards, it will be nearly impossible for people to help soak the swirlies, likely wiping the raid.
+
+**Intermission**
+
+Fairly easy breather phase.  Just dodge Bulletstorm and soak the charges. You can soak as many times as you want in Heroic, there's no debuff. Charge is similar to Council from Amirdrassil where he deals damage to you and then does the AoE hit at the end of the charge, reduced by amount of players he hits (but obviously without a debuff on Heroic).
+
+**P3**
+
+* He'll rip a Bloodlust, getting 30% haste for the entire phase. That means every cast might be faster as well, giving you way less time to react. You should rip a Lust too.
+* So, you'll have Goons, Mines, Pools, Clouds, Rocketeers, and Spears to deal with. This means you want to drag the boss to a clear space in the room and begin from there. The floor mechanic, in terms of swapping boss abilities and whatnot, no longer exists, so use the entire encounter space.
+* Spears can now be used to hit Mines as well, if you so desire, but you probably don't want to do that for the reasons I gave earlier. So, make sure players kite their add way the fuck away from any Gaols so there's no chance of that happening.
+* Rocketeers are STILL highest priority, even over Goons. 
+* Add priority is: Rocketeers>Boss>Goons>Shockers. You presumably will not have a lot of time to kill the boss. The goons don't really do much, and you just need to kill them before a new set spawns/they cast their Gaols again.
+* Be very careful not to accidentaly slide into mines when you get Iceblock Boots.
+* The Double Whammy Shot AND Molten Gold Drip Knuckles happens in this phase, and obviously the cadence is unknown.  Presumably you'll be given enough time to react properly to both.  You obviously want to stil drop Gold Pools in good spots, and the target of the Double Whammy Shot should aim it in a clear path so the tank can easily soak it, and players still need to clear that area as to not get hit. The Payload should still make sure not to detonate anything.
+* Soaking Goblin Guided Rockets in this phase will get very hectic, and anyone that can solo soak should do so here, and not in the earlier phases.
+
+
 # Gallywix - Final Boss
 
 As of right now this boss is both extremely complex and the dungeon journal just doesn't seem finished. Waiting until it's worth my time to actually write up notes.
