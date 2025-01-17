@@ -74,7 +74,7 @@ When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. *
 * For balls, probably a Weakaura will handle it, but you really only want the bare minimum people getting trash to soak the big bombs. All other balls should just pick up as many adds as they can and run into boss for boss dmg.
 * Territorial Bombshells are the HIGHEST PRIORITY THING ON THE MAP. ALL DAMAGE SHOULD BE FOCUSED ON THEM WHENEVER THEY ARE UP. Take extreme care not to accidentally roll into these. Tanks should drag boss over to them for cleave and Dks should grip them in once they're sub 75%.
 * Tank ball should just generally be used to pick up adds and roll into boss as soon as possible, then go back to picking up adds.
-# Sprocketmonger Lockenstock - Boss 5 (BOSS SEEMS VERY UNFINISHED, LIKELY TO CHANGE)
+# Sprocketmonger Lockenstock - Boss 5
 * Main mechanic is **Activate Inventions** There are three different types of weapons (somewhat like Siegecrafter) you can get.  NOT KNOWN IF YOU HAVE ANY CHOICE OVER WHAT WEAPONS, OR IF IT IS RANDOM. SEEMS JUST RANDOM BASED ON OTHER MECHANICS. DON'T KNOW IF YOU HAVE TO KILL THEM EITHER, OR IF THEY'RE JUST ENTITIES THAT DO THEIR MECHANICS THEN LEAVE. ALSO UNKNOWN IF IT SPAWNS MULTIPLE OF THESE WEAPONS OR NOT.
 
 Weapon Types:
