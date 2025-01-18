@@ -34,19 +34,19 @@
 
 ## Strat
 
-* Split raid in half. Can have tanks just swap bosses for less movement.  
+* Split raid in half. Groups will swap with every clash. Follow your tank.
 * Monkey side is pretty chill. Everyone should spread out and help kill/cc clones. If you are going to get hit by one, just try to get hit in Africa so pools don't spawn bad.
 * Keep movement to a minimum. Don't overmove/strafe like a dumbass.
-* On Dino side, have half of Dino group soak first soak and then the other half soak the second half. First group needs to drop their pools FAR, and second group should try to align theirs so the waves are predictable (think Rashok).  I'd anticipate either a soak happening during a Blastburn Roarcannon, or having to drop pools during a Blastburn. Bait first in either case, then do the mechanic. Depending on how early they clash and your class, could be worth holding lust/CDs to hit both. Just make sure both die at same time though. Lust on pull is fine.
+* On Dino side, have half of Dino group soak first soak and then the other half soak the second half. First group needs to drop their pools FAR, and second group should try to align theirs so the waves are predictable (think Rashok).  A Blastubrn Roarcannon will always overlap this soak. The person doing it should pick one side of the soak, lock it in, they immediately move out or let themselves get knocked out of the beam.  DO NOT AIM THE BEAM AT OTHER ANIMAL GROUP. Just lust pull. 
 # Rik Reverb - Boss 3
 * Main mechanic are **Amplifiers** placed around the room. These gain power over time. If any reach max power, likely a wipe.
 * **Amps** drop in periodically. If you're hit by them dropping in, you take high damage and are stunned and knocked.
-* Players can click on an **Amplifie**r to drain its power, but get a debuff that makes them take more nature damage. Need players to rotate clicking Amps.
+* Players can click on an **Amplifie**r to drain its power, but get a debuff that makes them take more nature damage. Assign players for each amp, ranged obviously preferred.
 * Besides this, each **Amp** does: low ticking damage to the whole raid, and shoot out **Resonant Echoes**
-* Can only be hit once every 6 seconds. **If you're hit by two, you're MC'd for a minute and (probably) dead.** NOW THAT I THINK ABOUT IT, THIS IS PROBABLY LIKE DAUSEGNE(HOW TF DO U SPELL IT) AND UUNAT. DODGE THROUGH SPECIFIC RINGS SO YOU DON'T GET 2 STACKS.
-* **Echoing Chant** - Simultaneously activates all **Amplifiers**, making them shout out Resonant Echoes at the same time.  
+* Can only be hit once every 6 seconds. **If you're hit by two, you're MC'd for a minute and (probably) dead.**  
+* **Echoing Chant -** Activates all amps and makes them shoot echoes. Big dodge situation.
 * **Sound Cannon** - Picks a random player and shoots a line at them. By the wording, probably not dodgeable for the player so they should either plant and others move or gtfo of the raid.
-* **Faulty Zap** - Picks a few players and afflicts them with a high damage DoT that also increases their nature damage taken for 12 seconds. They also splash damage 5 yards around them. Players should probably wait to click on their Amp until this goes away if they have to do it soon.
+* **Faulty Zap** - Picks a few players and afflicts them with a high damage DoT that also increases their nature damage taken for 12 seconds. They also splash damage 5 yards around them. Players should probably wait to click on their Amp until this goes away if they have to do it soon. Spread out and get away from amps otherwise.
 * **Sparkblast Ignition** - Bombs will be spawned that need to be killed. 15 seconds to kill them. Doing damage to them makes them shoot out swirlies that need to be dodged. Dealing damage to these gives a stacking haste and movement speed buff.
 * Boss makes any amps close to him (15 yards) gain power quicker.
 * Tank mechanic is a stacking Sonic DMG taken debuff. 100% a stack.  Cleaves to anyone in front of boss as well.
@@ -54,11 +54,11 @@ When Rik hits full energy, he'll do a **Hype Hustle,** which lasts 36 seconds. *
 * All amps will **Blowout!** causing them to explode, dealing very light damage and knocking up any players within 10 yards into the air. This is the only way to dodge **Blaring Drop!,** which is a ring that grows outward (Artificer/Queen), dealing lethal damage to anyone caught by it.
 
 ## Strat
-* As a group, it needs to be clearly defined and agreed upon what Amps are getting clicked on/what order. While it is ultimately up to each player to make sure they get over the Echoes, a good plan on which way to move/etc is necessary for group success.
+* As a group, it needs to be clearly defined and agreed upon what players are draining Amps.
 * Tanks need to be aware of positioning as well, as the boss does a frontal and powers up any Amps nearby (15 yards).
-* It is very likely you will get overlaps of the following: Faulty Zap during an Echoing Chant, or Sound Cannon during an Echoing Chant. In either case, the targeted players should get away from everyone else to make their movements easier. Immunities/big movement is very helpful at this time.
+* It is very likely you will get overlaps of the following: Faulty Zap during an Echoing Chant, or Sound Cannon during an Echoing Chant.
 * Same thing with the bombs. Range should be the ones hitting these for the most part, as they might be hard to reach sometimes and are high priority, but you do get a damage buff for hitting these, so melee shouldn't be afraid to help with them.
-* For the **Hype Hustle**, just pick an Amp to pop yourself up with. Doesn't seem to be a limit on how many can use one pop, at least on Heroic.
+* For the **Hype Hustle**, Amps will Blowout! one by one, illustrated by them having a lit up blue circle around them. Movement speed should be used here to get to each Amp.
 # Stix Bunkjunker - Boss 4
 * Main mechanic is Rolling Rubbish. Random players will be turned into a big ball. Boss spawns garbage piles throughout the fight. You have a bar that keeps track of garbage you've ran over. Can run over small garbage/hyenas at first, then bigger garbage/scrapmasters.
 * Boss summons an increasing amount of Doomsplosives. These need to be ran over by a large enough Rolling Rubbish, or they wipe you. Need a full bar basically to run them over.
@@ -88,7 +88,7 @@ You'll want to prioritize the **Foot Blasters** that are closest to **Wire Trans
 
 **P2**
 
-At 100 energy, he'll do **Beta Launch**, empowering a weapon type and knocking people away.  He'll do AoE dmg and a heal absorb on everyone.  He'll also do a swirlie rain. Getting hit disorients you...cringe. Every time he does this he also gets 15% dmg for the rest of the encounter.  Not known if that weapon type is empowered for the rest of the fight or just during this stage.
+At 100 energy, he'll do **Beta Launch**, empowering a weapon type and knocking people away.  He'll do AoE dmg and a heal absorb on everyone.  He'll also do a swirlie rain. Getting hit disorients you...cringe. Every time he does this he also gets 15% dmg for the rest of the encounter.  That weapon is empowered for the rest of the fight.
 
 **Empowered Weapons**
 * **Jumbo Void Beam** - Same thing basically as other laser.
@@ -106,10 +106,11 @@ OTHER MECHANICS
 
 # Strat
 
-* Seems to be a bit like Siegecrafter, where you have to play the combos of weapon types. They're really just all "dodge" or "use eyes", though.
-* The real challenge however is keeping the **Foot Blasters** under control. You want to make sure everyone is aware of how best to deal with these, and to not trigger them too quickly.  Prioritize the ones that spawn close to where Inventions might land, or where the **Wire Transfer** is happening next.
-* You also want to make sure the raid has a clear path to dodge out of things. Highly likely with all the dodging going on people will feel "trapped" at points, so give yourself a clear path as well.
-* For tanks, you'll probably want to swap Grav Gun debuff on 5-10 stacks, wherever you start to feel threatened, and swap on every Pyro Party Pack as well. Make sure to run it out as far as you can, ala Smolderon, but be careful of other players on your way out. Same thing as above, where having a clear path to run out ahead of time is important. The timing on this will very likely line up with other events, like a Screw Up and Inventions going off, so be aware of that. You'll also be slowed on your way out, so ask for movement speed or save up movement as necessary.
+* The order of weapons seems to be static for now, as well as the Wire Transfer. You go in a rotation of Beam->Rocket->Magnet->Beta Launch.  
+* The real challenge however is keeping the **Foot Blasters** under control. These spawn in static spots, and are 4 per wave. You can make 3 groups of 4 to handle this.  Start the soak rotation over after each Beta Launch.  Note that the final soak lines up just before Beta Launch, so make sure it is done or else someone with the debuff might get pulled through it.
+* For tanks, you'll probably want to swap Grav Gun debuff on 5tacks, wherever you start to feel threatened, and swap on every Pyro Party Pack as well. Make sure to run it out as far as you can, ala Smolderon, but be careful of other players on your way out. Same thing as above, where having a clear path to run out ahead of time is important. The timing on this will very likely line up with other events, like a Screw Up and Inventions going off, so be aware of that. You'll also be slowed on your way out, so ask for movement speed or save up movement as necessary.
+* Screw Ups last a decent bit. Place them as far away from the group/mine spawns as possible and keep them relatively tight. Ranged should do their best to place it on the side of the arena nobody is on.
+* Movement is very good for the Magnet and Beta Launch intermission.
 # The One-Armed Bandit - Boss 6
 
 Main mechanic is **Spin-to-Win**. Spawns a bunch of **Reel Assistants** that carry tokens. Several different type of tokens. You deposit the tokens into the boss and then get a mechanic based on the combination.  **CANNOT REPEAT COMBINATIONS, AND CANNOT...NOT DO THE MECHANIC. DOING SO IS A WIPE**.
@@ -158,11 +159,12 @@ Keeps everything from P1 except Reel Assistants. Like I said, there's 4 specific
 
 ## Strat
 
-* By the journal, it seems as if you only deal with each mechanic as it comes. As in, they don't keep building up and up, progressively making the phase harder. With that in mind, it really doesn't matter what order you choose to do, so long as everyone *knows* what the order is so that you don't accidentally repeat.  Of course, you can designate two players only to do the depositing, so you have full control over that.
-* When **Spin-to-Win** goes out, Reel Assistants need to be kicked and grouped up for cleave. At that point, the designated players should take the tokens to the boss. Everyone should spread out while these are up and move out of the group when they are getting dispelled. Watch waves while this is happening.
+* By the journal, it seems as if you only deal with each mechanic as it comes. As in, they don't keep building up and up, progressively making the phase harder. With that in mind, it really doesn't matter what order you choose to do, so long as everyone *knows* what the order is so that you don't accidentally repeat.  Of course, you can designate two players only to do the depositing, so you have full control over that.  REEL ASSISTANTS ARE PRIORITY NUMBER ONE WHILE THEY ARE ALIVE.
+* When **Spin-to-Win** goes out, Reel Assistants need to be kicked. At that point, the designated players should take the tokens to the boss. Everyone should spread out while these are up and move out of the group when they are getting dispelled. Watch waves while this is happening.
 * Tanks should swap on each Big Hit, and plan a good route for the Shocking Fields. Make sure to use the coils to suck these up at a later point.
-* Players should dodge the Pay-Lines then stand in the field it leaves behind for a damage increase. Tanks should try to keep the boss close to these so melee can have higher uptime on the buff.  Ranged should knock back the coins at the boss once they fall over.
+* Players should dodge the Pay-Lines then stand in the field it leaves behind for a damage increase. Tanks should try to keep the boss close to these so melee can have higher uptime on the buff.  Ranged should knock back the coins at the boss once they fall over. As of now, these are very small and hard to see, so pay attention.
 * Whenever Dynamite Booty of any type is up, they are highest priority and need to be hard focused/cc'ed (if possible).  For the Flame and Bomb combo, melee should swap off when they get low, as they blow up anything in 15 yards.
+* The Flame Coin Combo is an extreme amount of damage. Multiple healer CDs are needed for it.
 
 
 # Mug'zee - Boss 7
@@ -219,7 +221,7 @@ All abilities. There's a lot...GLHF. LUST. LUST. LUST THIS PHASE ITS ASS. Hard e
 
 * **Bloodlust -** Boss will lust and get 30% haste for the entire phase.
 
-## Strat
+## Strat - (OUT Of DATE)
 
 This fight is pretty complex. I've broken it down into each side, intermission, and P3.
 
@@ -228,7 +230,6 @@ This fight is pretty complex. I've broken it down into each side, intermission, 
  * Determine where the Gaols will be dropped ahead of time and keep the floor relatively organized. Tanks should know: where to drop their pools, and where to point the Storm Clouds
  * Evenly distribute players in the soaks. The tank currently holding the boss should make sure he is NOT in any Gaol soak, or the boss will enrage. You want to leave a gap between the Gaols so that people can actually get behind the walls. Remember, you touch the walls and the Gaol collapses, and you'll have no way to block the Spears, which can one shot even tanks unless they pop everything.
  * Tanks will swap on each Molten Gold Knuckles, as they'll need to drop pools after. I believe at this time, they just need to keep moving to drop pools.
- * Goes without saying, but don't stand in the Gaols after they're made, you take moderate damage if you do.
  * When the Spears go out, make sure each player has their own wall to use to block it. Probably can't have everyone use the same one as of current thinking, but testing will reveal...the TRUTH!!!!
 
 **On Zee Side**
