@@ -1,5 +1,6 @@
 
-OUT OF DATE AS OF 1/24, WILL UPDATE BEFORE FEBRUARY WITH NOTES FOR EVERY BOSS. MYTHIC WILL BE SEPARATE)
+OUT OF DATE AS OF 1/24. CURRENTLY CONSTRUCTING GUIDES FOR EVERY BOSS WITH FAR MORE DETAIL, CAN BE FOUND AT MY WEBSITE AT
+https://www.shawnzhome.com/tags/raiding/
 # Vexie and the Geargrinders - Boss 1
 
 * Boss immune at start. Has plating that needs to be removed. Biker adds are only ways to remove it.
